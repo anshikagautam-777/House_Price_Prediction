@@ -1,4 +1,4 @@
-### House Price Prediction Project
+## House Price Prediction Project
 Hey there! In this project, I've taken on the exciting task of predicting house prices using machine learning techniques. I completed this project as part of my internship at Bharat Intern.
 
 #### Introduction
